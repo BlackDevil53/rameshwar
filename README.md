@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rameshwar yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="left" width="500" scr="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
+<img align="left" alt="coding" width="400" scr="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
 <img align="left" width="500" scr="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshwar&label=Profile%20views&color=0e75b6&style=flat" alt="rameshwar" /> </p>
