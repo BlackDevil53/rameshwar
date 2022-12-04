@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13556
-Fork on GitHub
-3572
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
+<img scr="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif">
 <h1 align="center">Hi 👋, I'm Rameshwar yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="left" width="500" scr="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
