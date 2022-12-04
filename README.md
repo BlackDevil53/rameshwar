@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rameshwar yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="coding" width="400" scr="http://school.mangoanimate.com/wp-content/uploads/2021/04/%E6%9C%AA%E6%A0%87%E9%A2%98-1-%E6%81%A2%E5%A4%8D%E7%9A%84-1.jpg">
-<img align="left" width="500" scr="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
+<img scr="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshwar&label=Profile%20views&color=0e75b6&style=flat" alt="rameshwar" /> </p>
 
