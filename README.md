@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rameshwar yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  width="500px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img aling="left" width="500" scr="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
 <p align="left"> 
 - 📫 How to reach me **rameshwarkuamryadav32@gmail.com**
 
