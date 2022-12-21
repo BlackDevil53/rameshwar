@@ -14,7 +14,7 @@
 
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coding_dev_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/r_yadav__62/) 
 
 👆Above is link to my Instagram Page (@coding_dev_) where I upload daily posts on Web Development.
 
